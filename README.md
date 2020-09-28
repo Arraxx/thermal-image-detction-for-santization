@@ -1,0 +1,1 @@
+# thermal-image-detction-for-santization
